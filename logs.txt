@@ -1,0 +1,57 @@
+commit ef69a76a12b1ce2e620df9b72d050249a02dedda (HEAD -> main, origin/main)
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Thu Aug 22 18:25:13 2024 -0300
+
+    Trocando texto do botão para Reiniciar Jogo
+
+commit 057605f3c6c0228a92fa426bc002a39db0db89a9
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Thu Aug 22 18:18:59 2024 -0300
+
+    Revert "Trocar texto do botão para 'adivinhar'"
+
+    This reverts commit 1aebafa073f011e8afd7f7e29336569a06aab031.
+
+commit 1aebafa073f011e8afd7f7e29336569a06aab031
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Thu Aug 22 18:10:47 2024 -0300
+
+    Trocar texto do botão para 'adivinhar'
+
+commit 4066e4602c1a5f6015ba75b6b2a252fa02b53690
+Merge: b7eac0f d4345af
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Mon Aug 19 22:06:37 2024 -0300
+
+    Merge branch 'main' of github.com:mandamartins713/desafio
+
+commit b7eac0fd5c77899d32a0bab5889cbc8140400b73
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Mon Aug 19 22:05:09 2024 -0300
+
+    Alterar número máximo para 40
+
+commit d4345af49f281a0cf78c70c95c75f2a974da23be
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Mon Aug 19 22:02:52 2024 -0300
+
+    Alterar número máximo para 60
+
+commit 89485a84c534a2a93af91ce5ae091980708cff2c
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Mon Aug 19 22:00:32 2024 -0300
+
+    Alterar número máximo para 50
+
+commit 8ff363cd41be716241c3e010b642c339fac7e2e2
+commit 8ff363cd41be716241c3e010b642c339fac7e2e2
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Mon Aug 19 21:30:28 2024 -0300
+
+    Alterar número máximo para 100
+
+commit 82ce0a10ae972acc615df7a310f546fd8d45c88b
+Author: Amanda Martins <mandamartins713@gmail.com>
+Date:   Mon Aug 19 21:24:12 2024 -0300
+
+    projeto inicial
